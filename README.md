@@ -68,7 +68,7 @@ $ python setup.py install  # Or, `pip install -e .`
 
 ## Models & Performances
 
-See [experiments.md](./etc/experiments.md)
+See [experiments.md](etcs/experiments.md)
 
 ### Download Tensorflow Graph File(pb file)
 
